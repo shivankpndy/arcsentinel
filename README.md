@@ -1,4 +1,7 @@
-# ![ARC Sentinel](logo.png) ARC SENTINEL
+<h1>
+  <img src="logo.png" width="100" height="110" alt="ARC Sentinel">
+  ARC SENTINEL
+</h1>
 
 > **Autonomous Remote CubeSAT — Sentinel Platform v1.0**
 
